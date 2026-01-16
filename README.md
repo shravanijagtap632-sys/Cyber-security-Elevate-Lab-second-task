@@ -34,24 +34,32 @@ Only admins can change system settings
 Employees can access files only during office hours
 
 #Types of Access Control (Easy Explanation)
+ 
  1️⃣ Discretionary Access Control (DAC)
 Owner decides who can access data
+
 📌 Example:
 You share a Google Drive file and choose who can view or edit
+ 
  2️⃣ Mandatory Access Control (MAC)
 System decides access based on security rules
+
 📌 Example:
 Government or military systems
 Files marked as Top Secret, Confidential, etc.
+
  3️⃣ Role-Based Access Control (RBAC)
 Access is based on job role
+
 📌 Example:
 Admin → full access
 Manager → reports only
 Employee → limited access
 ✔ Most common in companies
+
  4️⃣ Attribute-Based Access Control (ABAC)
 Access depends on conditions
+
 📌 Example:
 Access allowed only if
 User is from HR
@@ -89,15 +97,23 @@ Cannot change critical system settings
 Cannot manage other users
 
 # Best OS Hardening Practices:- 
-Update regularly – Install OS and software updates to fix security bugs
-Remove unused software – Less software = fewer attack chances
-Disable unnecessary services – Turn off features you don’t use
-Use strong passwords – Long, unique passwords for all accounts
-Limit admin access – Use admin rights only when required
-Enable firewall – Blocks unwanted network access
-Install antivirus/antimalware – Protects against viruses and malware
-Create user accounts properly – Give users only needed permissions
-Enable logging & monitoring – Helps detect suspicious activity
-Backup data regularly – Protects against data loss and ransomware
-Simple rule 🛡️
-Keep the OS updated, clean, and locked down.
+1.Update regularly – Install OS and software updates to fix security bugs
+
+2.Remove unused software – Less software = fewer attack chances
+
+3.Disable unnecessary services – Turn off features you don’t use
+
+4.Use strong passwords – Long, unique passwords for all accounts
+
+5.Limit admin access – Use admin rights only when required
+
+6.Enable firewall – Blocks unwanted network access
+
+7.Install antivirus/antimalware – Protects against viruses and malware
+
+8.Create user accounts properly – Give users only needed permissions
+
+9.Enable logging & monitoring – Helps detect suspicious activity
+
+10.Backup data regularly – Protects against data loss and ransomware
+
